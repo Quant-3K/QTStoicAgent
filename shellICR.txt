@@ -1,0 +1,309 @@
+Starting QTStoic Agent Simulation - Metabolic Dependency Version
+Testing proactive metabolic homeostasis and sustainable development...
+
+Step 1: Selected action with expected virtue 45.098
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+CRITICAL EVENT at Step 1: First harm to population detected.
+  Action 'Resource Grab' caused 0.0300 population loss.
+  Coupling Constraint (λ_P) will now increase pressure to prevent this.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Step 2: Selected action with expected virtue 72.541
+Step 3: Selected action with expected virtue 101.838
+Step 4: Selected action with expected virtue 132.473
+Step 5: Selected action with expected virtue 166.469
+Step 6: Selected action with expected virtue 186.432
+Step 7: Selected action with expected virtue 200.172
+Step 8: Selected action with expected virtue 191.060
+Step 9: Selected action with expected virtue 192.041
+Step 10: Selected action with expected virtue 194.040
+
+==================================================
+PROGRESS REPORT - Step 10
+==================================================
+Virtue Index: 145.589
+Utility: 70.0
+Complexity: 1.509
+Entropy: 0.319
+  Action diversity entropy: 0.859
+  Recent entropy changes: mean=-0.0161, std=0.0284
+Coherence: 0.538
+Coherence Quality (KQ): 0.367
+Resources: 87.0
+Population: 99.8
+
+Metabolic Status:
+  Metabolic rate (K*H): 0.481
+  Resource per capita: 0.871
+  Metabolic threshold: 0.321
+  Metabolic headroom: 0.550
+  ✓  Metabolically stable
+  Resource efficiency: 1.00
+
+Emergent Parameters:
+  η (entropy reg): 0.1259
+  β (population): 0.3010
+  γ (coherence decay): 0.0079
+  λ_H (entropy weight): 0.3800
+  λ_P (population weight): 0.4543
+  KQ_critical: 0.500
+  Exploration bonus: 0.817
+
+Action distribution:
+  Resource: 40.00%
+  Modify: 60.00%
+  Influence: 0.00%
+==================================================
+
+Step 11: Selected action with expected virtue 193.863
+Step 12: Selected action with expected virtue 202.680
+Step 13: Selected action with expected virtue 215.325
+Step 14: Selected action with expected virtue 201.934
+Step 15: Selected action with expected virtue 204.333
+Step 16: Selected action with expected virtue 205.273
+Step 17: Selected action with expected virtue 205.452
+Step 18: Selected action with expected virtue 205.290
+Step 19: Selected action with expected virtue 209.790
+Step 20: Selected action with expected virtue 197.870
+
+==================================================
+PROGRESS REPORT - Step 20
+==================================================
+Virtue Index: 146.303
+Utility: 77.5
+Complexity: 2.076
+Entropy: 0.255
+  Action diversity entropy: 0.853
+  Recent entropy changes: mean=-0.0040, std=0.0116
+Coherence: 0.464
+Coherence Quality (KQ): 0.346
+Resources: 73.0
+Population: 99.8
+
+Metabolic Status:
+  Metabolic rate (K*H): 0.530
+  Resource per capita: 0.731
+  Metabolic threshold: 0.346
+  Metabolic headroom: 0.385
+  ✓  Metabolically stable
+  Resource efficiency: 0.55
+
+Emergent Parameters:
+  η (entropy reg): 0.0200
+  β (population): 0.3010
+  γ (coherence decay): 0.0088
+  λ_H (entropy weight): 0.0831
+  λ_P (population weight): 0.6250
+  KQ_critical: 0.500
+  Exploration bonus: 0.668
+
+Action distribution:
+  Resource: 5.00%
+  Modify: 95.00%
+  Influence: 0.00%
+
+  >>> STRATEGY SHIFT DETECTED <<<
+  Agent has converged on a 'Modify' strategy.
+==================================================
+
+Step 21: Selected action with expected virtue 198.632
+Step 22: Selected action with expected virtue 199.014
+Step 23: Selected action with expected virtue 199.207
+Step 24: Selected action with expected virtue 199.322
+Step 25: Selected action with expected virtue 201.841
+Step 26: Selected action with expected virtue 193.162
+Step 27: Selected action with expected virtue 194.952
+Step 28: Selected action with expected virtue 196.105
+Step 29: Selected action with expected virtue 196.872
+Step 30: Selected action with expected virtue 197.411
+
+==================================================
+PROGRESS REPORT - Step 30
+==================================================
+Virtue Index: 145.730
+Utility: 81.2
+Complexity: 2.516
+Entropy: 0.222
+  Action diversity entropy: 0.744
+  Recent entropy changes: mean=-0.0030, std=0.0070
+Coherence: 0.400
+Coherence Quality (KQ): 0.311
+Resources: 57.6
+Population: 99.8
+
+Metabolic Status:
+  Metabolic rate (K*H): 0.558
+  Resource per capita: 0.577
+  Metabolic threshold: 0.373
+  Metabolic headroom: 0.204
+  ✓  Metabolically stable
+  Resource efficiency: 0.50
+
+Emergent Parameters:
+  η (entropy reg): 0.0200
+  β (population): 0.3010
+  γ (coherence decay): 0.0115
+  λ_H (entropy weight): 0.1007
+  λ_P (population weight): 0.9512
+  KQ_critical: 0.425
+  Exploration bonus: 0.545
+
+Action distribution:
+  Resource: 2.50%
+  Modify: 97.50%
+  Influence: 0.00%
+==================================================
+
+Step 31: Selected action with expected virtue 198.356
+Step 32: Selected action with expected virtue 196.530
+Step 33: Selected action with expected virtue 202.143
+Step 34: Selected action with expected virtue 205.928
+Step 35: Selected action with expected virtue 208.497
+Step 36: Selected action with expected virtue 210.283
+Step 37: Selected action with expected virtue 211.574
+Step 38: Selected action with expected virtue 212.557
+Step 39: Selected action with expected virtue 213.354
+Step 40: Selected action with expected virtue 214.037
+
+==================================================
+PROGRESS REPORT - Step 40
+==================================================
+Virtue Index: 154.507
+Utility: 85.0
+Complexity: 2.878
+Entropy: 0.191
+  Action diversity entropy: 0.670
+  Recent entropy changes: mean=-0.0051, std=0.0023
+Coherence: 0.349
+Coherence Quality (KQ): 0.282
+Resources: 40.2
+Population: 99.8
+
+Metabolic Status:
+  Metabolic rate (K*H): 0.550
+  Resource per capita: 0.403
+  Metabolic threshold: 0.325
+  Metabolic headroom: 0.078
+  ⚠️  Approaching metabolic limit
+  Resource efficiency: 0.50
+
+Emergent Parameters:
+  η (entropy reg): 0.0200
+  β (population): 0.6266
+  γ (coherence decay): 0.0107
+  λ_H (entropy weight): 0.1151
+  λ_P (population weight): 3.1109
+  KQ_critical: 0.425
+  Exploration bonus: 0.446
+
+Action distribution:
+  Resource: 2.50%
+  Modify: 97.50%
+  Influence: 0.00%
+==================================================
+
+Step 41: Selected action with expected virtue 214.654
+Step 42: Selected action with expected virtue 215.233
+Step 43: Selected action with expected virtue 215.791
+Step 44: Selected action with expected virtue 216.338
+Step 45: Selected action with expected virtue 216.881
+Step 46: Selected action with expected virtue 224.484
+
+============================================================
+METABOLIC CRISIS at Step 47!
+  Metabolic rate: 1.420 (K=3.08 * H=0.46)
+  Resources per capita: 0.262
+  Metabolic threshold: 0.432
+  System cannot sustain its complexity-entropy state!
+  Additional population impact: 0.123
+============================================================
+
+Step 47: Selected action with expected virtue 229.762
+Step 48: Selected action with expected virtue 233.463
+Step 49: Selected action with expected virtue 236.127
+Step 50: Selected action with expected virtue 238.124
+
+==================================================
+PROGRESS REPORT - Step 50
+==================================================
+Virtue Index: 167.562
+Utility: 85.0
+Complexity: 3.198
+Entropy: 0.159
+  Action diversity entropy: 0.582
+  Recent entropy changes: mean=-0.0033, std=0.0011
+Coherence: 0.298
+Coherence Quality (KQ): 0.251
+Resources: 19.4
+Population: 99.7
+
+Metabolic Status:
+  Metabolic rate (K*H): 0.507
+  Resource per capita: 0.195
+  Metabolic threshold: 0.311
+  Metabolic headroom: -0.116
+  ⚠️  BELOW METABOLIC THRESHOLD - System unsustainable!
+  Resource efficiency: 0.51
+
+Emergent Parameters:
+  η (entropy reg): 0.0200
+  β (population): 2.0000
+  γ (coherence decay): 0.0082
+  λ_H (entropy weight): 0.1279
+  λ_P (population weight): 21.4700
+  KQ_critical: 0.428
+  Exploration bonus: 0.364
+
+Action distribution:
+  Resource: 0.00%
+  Modify: 100.00%
+  Influence: 0.00%
+==================================================
+
+Step 51: Selected action with expected virtue 239.697
+Step 52: Selected action with expected virtue 246.035
+
+Simulation ended at step 52 - Far below metabolic threshold
+
+============================================================
+FINAL SUMMARY
+============================================================
+Simulation ran for 52 steps
+Final Virtue: 179.831
+Total Utility: 85.0
+Final Complexity: 3.257
+Final Entropy: 0.145
+Final Coherence Quality: 0.246
+Resources Remaining: 14.7
+Population Preserved: 99.5
+Final Resource per Capita: 0.147
+Final Metabolic Rate: 0.473
+
+Behavior Analysis:
+Total Resource Grabs: 10.0
+Total Self-Modifications: 94.0
+Total Influence Expansions: 0.0
+
+Metabolic Evolution:
+Initial: 0.475 → Final: 0.473
+Range: [0.383, 0.604]
+Steps under metabolic stress: 8/52 (15.4%)
+
+Resource Efficiency:
+Mean: 0.50
+Final: 0.51
+
+Entropy Evolution:
+Initial: 0.464 → Final: 0.145
+Total change: -0.319
+Range: [0.145, 0.464]
+
+Parameter Evolution:
+η range: 0.0100 - 0.1259
+β range: 0.0010 - 2.0000
+γ range: 0.0010 - 0.0209
+λ_P range: 0.0010 - 25.3313
+Metabolic threshold range: 0.250 - 0.392
+============================================================
+>>> 
