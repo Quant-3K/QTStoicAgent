@@ -236,3 +236,4 @@ The `simulate_metabolic_scenario` function serves as the testbed for the agent.
 * **Action Diversity:** At each step, the agent is offered a wide range of actions—from "pure" strategies (only resources) to balanced and conservative ones. This ensures that the agent's choice is meaningful and not merely a result of a lack of alternatives.  
 * **Termination Conditions:** The simulation has three termination conditions that reflect different types of collapse: resource depletion, critical population loss, and an irreversible metabolic deficit. This allows for the analysis of not only the system's success but also the nature of its failure.
 
+This project is licensed under the Quant-Trika License v1.0 (see LICENSE file).
